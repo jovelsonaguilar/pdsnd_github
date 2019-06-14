@@ -1,4 +1,4 @@
-#change in the file to the third project of udacity (git)
+# I have to write sth here in order to fullfil the requests of the third project of udacity (git)
 import time
 import pandas as pd
 import numpy as np

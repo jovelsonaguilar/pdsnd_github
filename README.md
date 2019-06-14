@@ -11,5 +11,5 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was found on https://github.com/udacity/pdsnd_github and improved by jovelsonaguilar.
 
